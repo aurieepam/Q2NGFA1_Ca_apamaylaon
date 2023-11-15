@@ -39,8 +39,8 @@ nav{
         padding:20px 16px;
         display:block;
     }
-    .link a:hover{
-        background-color:white;
+    .links a:hover{
+        background-color:rgb(255, 206, 230);
     }
     nav:hover .links{ 
         display: block;
